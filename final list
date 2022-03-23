@@ -1,0 +1,6 @@
+src\react-app-env.d.ts added a space after the second /
+src\app\digital\models\ports\positioners\MuxPositioners.ts line 27-28 (the name of array in the comment is wrong)
+src\app\digital\models\ports\positioners\SegmentDisplayPositioner.ts line 18-19 (the name of array in the comment is wrong)
+src\app\core\models\ports\PortSets.ts line 48-49 (the name of the variable in the comment is wrong)
+src\site\shared\containers\SelectionPopup\index.tsx line 23 changed from exporting a function to exporting a var
+Eslint turns <div></div> to </div> and we probaly do not want that to happen
